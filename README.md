@@ -1,0 +1,2 @@
+# Faktoryzacja-liczby
+Faktoryzacja
